@@ -1,0 +1,46 @@
+{
+  "threads": [
+    {
+      "id": 1,
+      "methods": [
+        {
+          "name": "foo",
+          "time": "00:00:03.0048982",
+          "methods": [
+            {
+              "name": "bar",
+              "time": "00:00:01.0016419",
+              "methods": []
+            },
+            {
+              "name": "bar2",
+              "time": "00:00:01.0009900",
+              "methods": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "methods": [
+        {
+          "name": "foo",
+          "time": "00:00:03.0048751",
+          "methods": [
+            {
+              "name": "bar",
+              "time": "00:00:01.0009710",
+              "methods": []
+            },
+            {
+              "name": "bar2",
+              "time": "00:00:01.0009869",
+              "methods": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

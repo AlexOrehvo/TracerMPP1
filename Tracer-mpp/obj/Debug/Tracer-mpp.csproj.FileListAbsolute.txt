@@ -1,0 +1,10 @@
+E:\RiderProjects\Tracer-mpp\Tracer-mpp\bin\Debug\Tracer_mpp.exe
+E:\RiderProjects\Tracer-mpp\Tracer-mpp\bin\Debug\Tracer_mpp.pdb
+E:\RiderProjects\Tracer-mpp\Tracer-mpp\bin\Debug\Newtonsoft.Json.dll
+E:\RiderProjects\Tracer-mpp\Tracer-mpp\bin\Debug\Newtonsoft.Json.xml
+E:\RiderProjects\Tracer-mpp\Tracer-mpp\obj\Debug\Tracer_mpp.exe
+E:\RiderProjects\Tracer-mpp\Tracer-mpp\obj\Debug\Tracer_mpp.pdb
+E:\RiderProjects\Tracer-mpp\Tracer-mpp\obj\Debug\Tracer-mpp.csprojAssemblyReference.cache
+E:\RiderProjects\Tracer-mpp\Tracer-mpp\obj\Debug\Tracer-mpp.csproj.CoreCompileInputs.cache
+E:\RiderProjects\Tracer-mpp\Tracer-mpp\bin\Debug\Tracer_mpp.exe.config
+E:\RiderProjects\Tracer-mpp\Tracer-mpp\obj\Debug\Tracer-mpp.csproj.CopyComplete

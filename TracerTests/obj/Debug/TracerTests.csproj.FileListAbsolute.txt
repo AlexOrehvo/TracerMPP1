@@ -1,0 +1,12 @@
+E:\RiderProjects\Tracer-mpp\TracerTests\obj\Debug\TracerTests.csprojResolveAssemblyReference.cache
+E:\RiderProjects\Tracer-mpp\TracerTests\bin\Debug\TracerTests.dll
+E:\RiderProjects\Tracer-mpp\TracerTests\bin\Debug\TracerTests.pdb
+E:\RiderProjects\Tracer-mpp\TracerTests\bin\Debug\nunit.framework.dll
+E:\RiderProjects\Tracer-mpp\TracerTests\bin\Debug\nunit.framework.pdb
+E:\RiderProjects\Tracer-mpp\TracerTests\bin\Debug\nunit.framework.xml
+E:\RiderProjects\Tracer-mpp\TracerTests\obj\Debug\TracerTests.dll
+E:\RiderProjects\Tracer-mpp\TracerTests\obj\Debug\TracerTests.pdb
+E:\RiderProjects\Tracer-mpp\TracerTests\bin\Debug\Tracer_mpp.exe
+E:\RiderProjects\Tracer-mpp\TracerTests\bin\Debug\Newtonsoft.Json.dll
+E:\RiderProjects\Tracer-mpp\TracerTests\bin\Debug\Tracer_mpp.pdb
+E:\RiderProjects\Tracer-mpp\TracerTests\bin\Debug\Newtonsoft.Json.xml
